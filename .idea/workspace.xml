@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d48b408e-8283-4efa-908f-f4b89bd82e63" name="Default" comment="this is the final DormitoryController model">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/DormitoryMannagerCss/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/MainCss/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/StudentCss/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/SuperMannagerCss/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/WorkerCss/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/JS/DormitoryMannagerJs/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/JS/MainJs/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/JS/StudentJs/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/JS/SuperMannagerJs/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/JS/WorkerJs/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/View/DormitoryMannagerView/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/View/StudentView/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/View/SuperMannagerView/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/View/WorkerView/readme.txt" />
+    <list default="true" id="d48b408e-8283-4efa-908f-f4b89bd82e63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -862,7 +848,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492615515200</updated>
       <workItem from="1492615518946" duration="7144000" />
-      <workItem from="1492623104701" duration="2519000" />
+      <workItem from="1492623104701" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="this is the final DormitoryController model">
       <created>1492622206611</created>
@@ -892,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492624888788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="this is the final DormitoryController model">
+      <created>1492625920622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1492625920622</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9663000" />
+    <option name="totallyTimeSpent" value="9939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1923" height="1038" extended-state="0" />
